@@ -15,4 +15,4 @@ TensorFlow lite to automatically recognize accepted objects and rejected object.
 Depend on the mechanism, it could be fast and can be slow.
    
    
-(idea_001.jpg)[iot_device/ims/idea_001.jpg]
+![idea_001.jpg](https://github.com/ha-yi/iTampol/blob/master/iot_device/imgs/idea_001.jpg?raw=true)
